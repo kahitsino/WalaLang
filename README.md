@@ -164,8 +164,6 @@ By using this software, you agree to:
 4. Comply with all **applicable laws**
 
 ### 🛡️ **RESPONSIBLE DISCLOSURE**
-Found a vulnerability? Please report it responsibly:
-- Email: [Your Contact]
 - Do not exploit without permission
 
 ---
